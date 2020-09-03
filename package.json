@@ -1,0 +1,31 @@
+{
+  "name": "@tangynt/tangynt-js-sdk",
+  "version": "1.0.2",
+  "description": "Official Javascript SDK for integrating into the Tangynt API.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tangynt-LLC/tangynt-js-sdk.git"
+  },
+  "keywords": [
+    "api",
+    "tangynt",
+    "sdk",
+    "js",
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Tangynt Developers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tangynt-LLC/tangynt-js-sdk/issues"
+  },
+  "homepage": "https://github.com/Tangynt-LLC/tangynt-js-sdk#readme",
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  }
+}
