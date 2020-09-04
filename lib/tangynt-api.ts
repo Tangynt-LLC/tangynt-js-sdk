@@ -1,7 +1,7 @@
-import {Config} from "./config";
+import config from "./pkg/util/global-config";
 
 export function initApp(apiKey: string): void {
-    Config.Instance.apiKey = apiKey;
+    config.Instance.apiKey = apiKey;
 }
 
-export * from './auth/auth.functions';
+export * from './pkg/auth/auth.functions';
