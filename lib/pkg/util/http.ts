@@ -1,5 +1,6 @@
 import {AuthenticationResponse, ErrorResponse} from "../models";
 import config from './global-config';
+import fetch from "node-fetch";
 
 const tangyntApiUrl: string = 'https://api.tangynt.com/api/v1';
 
