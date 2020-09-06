@@ -21,7 +21,7 @@ function getObject<T>(objectName: string, id: number, fields: string[] = null): 
     return get<T>(url);
 }
 
-function getObjectList<T>(objectName: string, options: ListOptions): Promise<T[]> {
+function getObjects<T>(objectName: string, options: ListOptions): Promise<T[]> {
     let url = `/${objectName}`;
 
     url = addFieldsToUrl(url, options.fields);
