@@ -46,3 +46,10 @@ export interface ListOptions {
     orderDir: string;
     filters: ApiRequestFilter[];
 }
+
+export interface File {
+    id: number;
+    name: string;
+    fileType: string;
+    fileSize: number;
+}
