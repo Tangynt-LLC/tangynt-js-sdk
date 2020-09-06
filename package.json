@@ -1,6 +1,6 @@
 {
   "name": "@tangynt/tangynt-js-sdk",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Official Javascript SDK for integrating into the Tangynt API.",
   "main": "dist/tangynt-api.js",
   "scripts": {
