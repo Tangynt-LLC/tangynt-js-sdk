@@ -37,3 +37,12 @@ export interface ApiRequestFilter {
     operator: string;
     value: string;
 }
+
+export interface ListOptions {
+    fields: string[];
+    skip: number;
+    limit: number;
+    orderBy: string;
+    orderDir: string;
+    filters: ApiRequestFilter[];
+}

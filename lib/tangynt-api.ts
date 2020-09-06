@@ -5,3 +5,4 @@ export function initApp(apiKey: string): void {
 }
 
 export * from './pkg/auth/auth.functions';
+export * from './pkg/customApi/api';
