@@ -22,7 +22,7 @@ Visit the documentation page on Tangynt's website to view our quickstart guide a
 
 ## Support
 
-If you have any question, comments, or issues, feel free to reach out to us via our [support email].
+If you have any question, comments, or issues, feel free to reach out to us via [support@tangynt.com][support email].
 
 [quickstart]: https://tangynt.com/docs
 [support email]: mailto:support@tangynt.com
